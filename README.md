@@ -20,5 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dabby12&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/dabby12/output/snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
